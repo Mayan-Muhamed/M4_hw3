@@ -1,0 +1,28 @@
+.todoWrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.todoTitle {
+    font-family: sans-serif;
+}
+.todoInput{
+    width: 200px;
+    height: 30px;
+    padding: 5px;
+}
+.todoButton {
+    width: 100px;
+    height: 44px;
+}
+.todoList {
+    font-size: 20px;
+    margin-top: 40px;
+}
+.todoLiWrap {
+    width: 300px;
+}
+.todoLi {
+    margin-top: 20px;
+}
